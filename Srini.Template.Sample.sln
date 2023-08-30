@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{F733
 		init.sh = init.sh
 		rename_project.sh = rename_project.sh
 		template.yml = template.yml
+		TextFile1.txt = TextFile1.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{21F21FE3-C946-4BC7-89EE-EB4956B3E2B2}"

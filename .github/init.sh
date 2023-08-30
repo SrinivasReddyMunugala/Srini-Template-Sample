@@ -54,7 +54,7 @@ if [ -d "${template_dir}" ]; then
         fi
     fi
 else
-    # Template directory does not exist, download it
+    # Template directory does not exist, download it 
     echo "Downloading ${template_url}"
     download_template
 fi
