@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{F733
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{21F21FE3-C946-4BC7-89EE-EB4956B3E2B2}"
 	ProjectSection(SolutionItems) = preProject
+		master.yml = master.yml
 		rename.yml = rename.yml
 	EndProjectSection
 EndProject
