@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srini.Template.Sample", "Srini.Template.Sample\Srini.Template.Sample.csproj", "{EC1FDCFB-0C33-4408-A48E-65920C10F650}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Srini.Template.Sample", "Srini.Template.Sample\Srini.Template.Sample.csproj", "{EC1FDCFB-0C33-4408-A48E-65920C10F650}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{F733BF1E-B851-41DF-AFBB-B8660AC68172}"
 	ProjectSection(SolutionItems) = preProject
@@ -15,7 +15,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{F733
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{21F21FE3-C946-4BC7-89EE-EB4956B3E2B2}"
 	ProjectSection(SolutionItems) = preProject
-		main.yml = main.yml
 		rename_project.yml = rename_project.yml
 	EndProjectSection
 EndProject
