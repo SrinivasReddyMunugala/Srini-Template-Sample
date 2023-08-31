@@ -2,7 +2,9 @@
 
 on: [push]
 
-permissions: write-all
+permissions: 
+    contents: write
+    pull-request: write
 
 
 
